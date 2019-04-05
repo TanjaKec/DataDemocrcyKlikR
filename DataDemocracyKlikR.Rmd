@@ -161,7 +161,7 @@ III) Social communities:
 class: inverse, middle
 ### This presentation available from: 
 
-####<https://tanjakec.github.io/DataDemocrcyKlikR/DataDemocrcyKlikR.html>
+####<https://tanjakec.github.io/DataDemocrcyKlikR/DataDemocracyKlikR.html>
 
 ### To download go to GitHub repo: 
 
